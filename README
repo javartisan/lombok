@@ -1,3 +1,6 @@
+一个基于注解生成构造器，GET/SET方法等方法的Java类库
+
+
 Project Lombok makes java a spicier language by adding 'handlers' that know how to build and compile simple, boilerplate-free, not-quite-java code.
 See LICENSE for the Project Lombok license.
 
